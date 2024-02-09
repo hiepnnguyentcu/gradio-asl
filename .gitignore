@@ -1,0 +1,9 @@
+tmp
+data
+flagged
+EDA.ipynb
+**/__pycache__/
+**/ipynb_checkpoints/
+base.py
+weights/otherweights
+weights/*.tflite
