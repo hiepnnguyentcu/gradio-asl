@@ -6,4 +6,3 @@ EDA.ipynb
 **/ipynb_checkpoints/
 base.py
 weights/otherweights
-weights/*.tflite
